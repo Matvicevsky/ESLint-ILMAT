@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-acme",
+  "name": "eslint-ilmat",
   "version": "1.0.0",
   "description": "ESLint + Prettier config for React",
   "main": "index.js",
@@ -33,7 +33,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "",
-    "directory": ""
-  }
+    "url": "https://github.com/Matvicevsky/ESLint-ILMAT"
+  },
+  "bugs": {
+    "url": "https://github.com/Matvicevsky/ESLint-ILMAT/issues"
+  },
+  "homepage": "https://github.com/Matvicevsky/ESLint-ILMAT/blob/main/README.md"
 }
